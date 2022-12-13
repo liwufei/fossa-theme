@@ -1,0 +1,3 @@
+[submodule "themes/fossa"]
+	path = themes/fossa
+	url = https://github.com/hugotheme/fossa

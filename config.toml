@@ -1,0 +1,4 @@
+baseURL = 'https://fossa-theme.netlify.app'
+languageCode = 'en-US'
+title = 'Fossa theme'
+theme = 'fossa'
